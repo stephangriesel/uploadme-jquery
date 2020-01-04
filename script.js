@@ -1,7 +1,5 @@
 $("#upload_widget_opener").cloudinary_upload_widget(
     {
-        // cloud_name: `${process.env.CLOUD_NAME}`,
-        // upload_preset: `${process.env.UPLOAD_PRESET}`,
         cloud_name: "dvme554nj",
         upload_preset: "qtzenltc",
         // cropping: "server",
